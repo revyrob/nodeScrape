@@ -12,3 +12,5 @@ npm i
 this will install all libaries
 
 currently npm start starts the index.js file with nodemon for testing purposes
+
+it would be great to email the findings to me. I have to figure that out
